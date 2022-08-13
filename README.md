@@ -52,4 +52,12 @@ Configuramos la Global Tool Configuration para NodeJS
 
 Nombre y ultima version actualizada
 
-clonar el repo NodeJS 
+clonar el repo NodeJS https://github.com/Jumpvzl/NodeJS.git
+
+Creamos la tarea -> Aplicacion NodeJS
+Proyecto Estilo Libre
+LLenamos la descripcion
+
+origen del codigo fuente -> GIT utilizamos el repo -> https://github.com/Jumpvzl/NodeJS.git
+
+
