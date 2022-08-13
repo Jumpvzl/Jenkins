@@ -42,3 +42,14 @@ habilitamos los permisos para que el usuario jenkins pueda ejecutar docker
 volvemos a entrar con jenkins
 
 docker exec -it jenkins bash
+
+
+############# Ejercicio con NodeJS ####################
+
+Instalamos el plugin NodeJS
+
+Configuramos la Global Tool Configuration para NodeJS
+
+Nombre y ultima version actualizada
+
+clonar el repo NodeJS 
